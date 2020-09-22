@@ -47,7 +47,7 @@
     {
       "cid": 0,
       "name": "RTV",
-      "stream_url": "https://etslive-2-vidio-com.akamaized.net/exp=1600811648~acl=/hls-p/ingest_geo_1561_*/*~hmac=a33f7c7d96bf2df2b59e0b6ce8985de51dec137bbfd5e26b9e31e0a4696cc740/hls-p/ingest_geo_1561_480p/index.m3u8"
+      "stream_url": "http://210.210.155.35/qwr9ew/s/s12/01.m3u8"
     },
     {
       "cid": 0,
@@ -72,12 +72,17 @@
     {
       "cid": 0,
       "name": "Elshinta",
-      "stream_url": "http://rrelshinta.dens.tv/s/s10/index2.m3u8"
+      "stream_url": "http://210.210.155.35/qwr9ew/s/s10/01.m3u8"
     },
     {
       "cid": 0,
       "name": "CNBC",
       "stream_url": "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8"
+    },
+    {
+      "cid":0,
+      "name": "TVRI",
+      "stream_url": "http://210.210.155.35/qwr9ew/s/s11/01.m3u8"
     }
     
   ]
