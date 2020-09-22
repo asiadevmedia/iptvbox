@@ -35,7 +35,7 @@
       "stream_url": "https://linier3.rctiplus.id/live/eds/iNews_Logo/sa_hls/iNews_Logo-avc1_2000000=1.m3u8"
     },
     {
-      "cid": 1,
+      "cid": 0,
       "name": "Metro TV",
       "stream_url": "http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8"
     },
@@ -57,7 +57,7 @@
     {
       "cid": 0,
       "name": "SCTV",
-      "stream_url": "https://cdn-livetv5.metube.id/hls/sctv_480/index.m3u8"
+      "stream_url": "http://210.210.155.35/qwr9ew/s/s03/02.m3u8"
     },
     {
       "cid": 0,
@@ -70,7 +70,7 @@
       "stream_url": "https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8"
     },
     {
-      "cid": 1,
+      "cid": 0,
       "name": "TV One",
       "stream_url": "http://210.210.155.35/qwr9ew/s/s105/01.m3u8"
     },
@@ -113,11 +113,6 @@
       "cid": 1,
       "name": "TVRI Yogyakarta",
       "stream_url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8"
-    },
-    {
-      "cid": 1,
-      "name": "TVONE",
-      "stream_url": "http://chostv.mobie.in/files/iptv/tvone.m3u8"
     }
   ]
 }
