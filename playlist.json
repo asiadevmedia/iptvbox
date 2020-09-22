@@ -53,7 +53,7 @@
     {
       "cid": 0,
       "name": "RTV",
-      "stream_url": "http://202.80.222.170/000001/2/ch00000090990000001716/1003.m3u8?IASHttpSessionId=OTT219772019071817211718015591&ztecid=ch00000090990000001716&bandwidth=1239209&ispcode=1&timeformat=local&channel=ch00000090990000001716&srcurl=aHR0cDovLzIwMi44MC4yMjIuMjA6ODAvY2RuL2lwdHYvVHZvZC8wMDEvY2hhbm5lbDIwMDAwNTcvMTI4Lm0zdTg%3D&zte_bandwidth=1000&m3u8_level=2&virtualDomain=000001.live_hls.zte.com"
+      "stream_url": "https://etslive-2-vidio-com.akamaized.net/exp=1600811648~acl=/hls-p/ingest_geo_1561_*/*~hmac=a33f7c7d96bf2df2b59e0b6ce8985de51dec137bbfd5e26b9e31e0a4696cc740/hls-p/ingest_geo_1561_480p/index.m3u8"
     },
     {
       "cid": 0,
@@ -74,6 +74,17 @@
       "cid": 0,
       "name": "TV One",
       "stream_url": "http://210.210.155.35/qwr9ew/s/s105/01.m3u8"
+    },
+    {
+      "cid": 0,
+      "name": "Elshinta",
+      "stream_url": "http://rrelshinta.dens.tv/s/s10/index2.m3u8"
+    },
+    {
+      "cid": 0,
+      "name": "CNBC",
+      "stream_url": "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8"
     }
+    
   ]
 }
