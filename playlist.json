@@ -3,10 +3,6 @@
     {
       "id": 0,
       "name": "Nasional"
-    },
-    {
-      "id": 1,
-      "name": "Berita"
     }
   ],
   "channels": [
@@ -78,46 +74,6 @@
       "cid": 0,
       "name": "TV One",
       "stream_url": "http://210.210.155.35/qwr9ew/s/s105/01.m3u8"
-    },
-    {
-      "cid": 1,
-      "name": "TVRI",
-      "stream_url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8"
-    },
-    {
-      "cid": 1,
-      "name": "TVRI DKI Jakarta",
-      "stream_url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIDKI)/Stream(03)/index.m3u8"
-    },
-    {
-      "cid": 1,
-      "name": "TVRI Jawa Barat",
-      "stream_url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/index.m3u8"
-    },
-    {
-      "cid": 1,
-      "name": "TVRI Jawa Tengah",
-      "stream_url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATENGSEMARANG)/index.m3u8"
-    },
-    {
-      "cid": 1,
-      "name": "TVRI Jawa Timur",
-      "stream_url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATIMSURABAYA)/index.m3u8"
-    },
-    {
-      "cid": 1,
-      "name": "TVRI Nasional",
-      "stream_url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8"
-    },
-    {
-      "cid": 1,
-      "name": "TVRI Sport",
-      "stream_url": "http://210.210.155.35/session/69e800f6-97c0-11e9-888f-b82a72d63267/qwr9ew/s/s107/index.m3u8"
-    },
-    {
-      "cid": 1,
-      "name": "TVRI Yogyakarta",
-      "stream_url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8"
     }
   ]
 }
