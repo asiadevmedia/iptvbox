@@ -28,7 +28,7 @@
     {
       "cid": 0,
       "name": "iNews TV",
-      "stream_url": "http://202.80.222.175/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com"
+      "stream_url": "https://etslive-2-vidio-com.akamaized.net/exp=1600813062~acl=/hls-p/ingest_5409_*/*~hmac=cdd95da5daa2a7b77943aa8dd4aa21aac1a4882df9b8e70f856e52830f103f09/hls-p/ingest_5409_480p/index.m3u8"
     },
     {
       "cid": 0,
