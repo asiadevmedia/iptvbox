@@ -1,0 +1,118 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "Nasional"
+    },
+    {
+      "id": 1,
+      "name": "Berita"
+    }
+  ],
+  "channels": [
+    {
+      "cid": 0,
+      "name": "ANTV",
+      "stream_url": "http://210.210.155.35/qwr9ew/s/s07/02.m3u8"
+    },{
+      "cid": 0,
+      "name": "CNN Indonesia",
+      "stream_url": "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8"
+    },
+    {
+      "cid": 0,
+      "name": "GTV",
+      "stream_url": "https://linier3.rctiplus.id/live/eds/GTV_Logo/sa_hls/GTV_Logo.m3u8"
+    },
+    {
+      "cid": 0,
+      "name": "Indosiar",
+      "stream_url": "http://45.126.83.51/qwr9ew/s/s04/01.m3u8"
+    },
+    {
+      "cid": 0,
+      "name": "iNews TV",
+      "stream_url": "https://linier3.rctiplus.id/live/eds/iNews_Logo/sa_hls/iNews_Logo-avc1_2000000=1.m3u8"
+    },
+    {
+      "cid": 1,
+      "name": "Metro TV",
+      "stream_url": "http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8"
+    },
+    {
+      "cid": 0,
+      "name": "MNC TV",
+      "stream_url": "https://linier3.rctiplus.id/live/eds/MNCTV_Logo/sa_hls/MNCTV_Logo.m3u8"
+    },
+    {
+      "cid": 0,
+      "name": "NET. TV",
+      "stream_url": "http://210.210.155.35/qwr9ew/s/s08/01.m3u8"
+    },
+    {
+      "cid": 0,
+      "name": "RCTI",
+      "stream_url": "https://linier3.rctiplus.id/live/eds/RCTI_Logo/sa_hls/RCTI_Logo.m3u8"
+    },
+    {
+      "cid": 0,
+      "name": "SCTV",
+      "stream_url": "https://cdn-livetv5.metube.id/hls/sctv_480/index.m3u8"
+    },
+    {
+      "cid": 0,
+      "name": "Trans 7",
+      "stream_url": "https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8"
+    },
+    {
+      "cid": 0,
+      "name": "Trans TV",
+      "stream_url": "https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8"
+    },
+    {
+      "cid": 1,
+      "name": "TV One",
+      "stream_url": "http://210.210.155.35/qwr9ew/s/s105/01.m3u8"
+    },
+    {
+      "cid": 1,
+      "name": "TVRI",
+      "stream_url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8"
+    },
+    {
+      "cid": 1,
+      "name": "TVRI DKI Jakarta",
+      "stream_url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIDKI)/Stream(03)/index.m3u8"
+    },
+    {
+      "cid": 1,
+      "name": "TVRI Jawa Barat",
+      "stream_url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/index.m3u8"
+    },
+    {
+      "cid": 1,
+      "name": "TVRI Jawa Tengah",
+      "stream_url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATENGSEMARANG)/index.m3u8"
+    },
+    {
+      "cid": 1,
+      "name": "TVRI Jawa Timur",
+      "stream_url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATIMSURABAYA)/index.m3u8"
+    },
+    {
+      "cid": 1,
+      "name": "TVRI Nasional",
+      "stream_url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8"
+    },
+    {
+      "cid": 1,
+      "name": "TVRI Sport",
+      "stream_url": "http://210.210.155.35/session/69e800f6-97c0-11e9-888f-b82a72d63267/qwr9ew/s/s107/index.m3u8"
+    },
+    {
+      "cid": 1,
+      "name": "TVRI Yogyakarta",
+      "stream_url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8"
+    },
+  ]
+}
