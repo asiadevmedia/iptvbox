@@ -56,6 +56,11 @@
     },
     {
       "cid": 0,
+      "name": "RTV",
+      "stream_url": "http://202.80.222.170/000001/2/ch00000090990000001716/1003.m3u8?IASHttpSessionId=OTT219772019071817211718015591&ztecid=ch00000090990000001716&bandwidth=1239209&ispcode=1&timeformat=local&channel=ch00000090990000001716&srcurl=aHR0cDovLzIwMi44MC4yMjIuMjA6ODAvY2RuL2lwdHYvVHZvZC8wMDEvY2hhbm5lbDIwMDAwNTcvMTI4Lm0zdTg%3D&zte_bandwidth=1000&m3u8_level=2&virtualDomain=000001.live_hls.zte.com"
+    },
+    {
+      "cid": 0,
       "name": "SCTV",
       "stream_url": "http://210.210.155.35/qwr9ew/s/s03/02.m3u8"
     },
