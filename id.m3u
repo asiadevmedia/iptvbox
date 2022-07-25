@@ -2,8 +2,6 @@
 #EXTINF:-1 tvg-id="AhsanTV.id" tvg-logo="https://i.imgur.com/Eval1Zu.png" group-title="Religious" user-agent="Mozilla/5.0 (X11; Linux x86_64)",Ahsan TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://h1.intechmedia.net/intech/ch4.m3u8
-#EXTINF:-1 tvg-id="Ainos.id" tvg-logo="https://www.lyngsat.com/logo/tv/aa/ainos-id.png" group-title="General",Ainos (576i)
-https://alfa.kugo.id/playout/ainos.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="AlBahjahTV.id" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_bahjah_tv_id.png" group-title="Religious" user-agent="Mozilla/5.0 (X11; Linux x86_64)",Al-Bahjah TV (360p) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://h1.intechmedia.net/intech/ch64.m3u8
