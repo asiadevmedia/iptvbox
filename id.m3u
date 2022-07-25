@@ -1,12 +1,13 @@
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/cn/tv.cctv.com.epg.xml,https://iptv-org.github.io/epg/guides/hk-en/nowplayer.now.com.epg.xml,https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml,https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml,https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml,https://iptv-org.github.io/epg/guides/sg/mewatch.sg.epg.xml"
 #EXTINF:-1 tvg-id="AhsanTV.id" tvg-logo="https://i.imgur.com/Eval1Zu.png" group-title="Religious" user-agent="Mozilla/5.0 (X11; Linux x86_64)",Ahsan TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://h1.intechmedia.net/intech/ch4.m3u8
 #EXTINF:-1 tvg-id="Ainos.id" tvg-logo="https://www.lyngsat.com/logo/tv/aa/ainos-id.png" group-title="General",Ainos (576i)
 https://alfa.kugo.id/playout/ainos.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="AlBahjahTV.id" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_bahjah_tv_id.png" group-title="Religious" user-agent="Mozilla/5.0 (X11; Linux x86_64)",Al-Bahjah TV (360p) [Geo-blocked]
+#EXTINF:-1 tvg-id="AlBahjahTV.id" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_bahjah_tv_id.png" group-title="Religious" user-agent="Mozilla/5.0 (X11; Linux x86_64)",Al-Bahjah TV (360p) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://h1.intechmedia.net/intech/ch64.m3u8
-#EXTINF:-1 tvg-id="AlImanTV.id" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-iman-tv-id.png" group-title="Religious",Al-Iman TV (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="AlImanTV.id" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-iman-tv-id.png" group-title="Religious",Al-Iman TV (720p) 
 https://tv.rodja.live/aliman/ngrp:HD_all/playlist.m3u8
 #EXTINF:-1 tvg-id="AnimaxAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="Kids" user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36",Animax Asia (Vietnamese Subs) (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
@@ -15,7 +16,7 @@ https://livecdn.fptplay.net/hda3/animaxport_vhls.smil/playlist.m3u8
 http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
 #EXTINF:-1 tvg-id="AshiilTV.id" tvg-logo="https://i.imgur.com/bTktkcr.png" group-title="Religious",Ashiil TV (480p)
 http://wowza58.indostreamserver.com:1935/ashiiltv2/android/playlist.m3u8
-#EXTINF:-1 tvg-id="BMSTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/29/BMSTV_2016.png" group-title="General",Bayunmas TV (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="BMSTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/29/BMSTV_2016.png" group-title="General",Bayunmas TV (720p) 
 https://v2.siar.us/bmstv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="BeritaSatu.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/BeritaSatu_%28Indonesian_news_channel%29.png/512px-BeritaSatu_%28Indonesian_news_channel%29.png" group-title="News",BeritaSatu (720p)
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
@@ -27,7 +28,7 @@ http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?bizke
 http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=jgDKPclcGdZfvrIDxfMdpT7v_srMWCbubntGo9cCYWpcBBQalMlLQxHswm43PbVR&bizkeylivestarttime=0
 #EXTINF:-1 tvg-id="CNBCIndonesia.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/CNBC_Indonesia.png" group-title="Business",CNBC Indonesia (720p)
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
-#EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/CNN_Indonesia.svg/512px-CNN_Indonesia.svg.png" group-title="News",CNN Indonesia (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/CNN_Indonesia.svg/512px-CNN_Indonesia.svg.png" group-title="News",CNN Indonesia (720p) 
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="DuniaGamesTV.id" tvg-logo="https://i.imgur.com/WrwsOf8.png" group-title="General",Dunia Games TV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(ec41a5e2-09e4-431d-b92e-383fa7abe25c)/index.m3u8
@@ -58,7 +59,7 @@ https://allanf181.github.io/adaptive-streams/streams/hk/MiaoMi.m3u8
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-logo="https://i.imgur.com/SK8pjQy.png" group-title="General",MNCTV (720p)
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://d33j155pv2xyba.cloudfront.net/MNCTV_2021.m3u8
-#EXTINF:-1 tvg-id="MyKidz.id" tvg-logo="https://www.lyngsat.com/logo/tv/mm/my-kidz-id.png" group-title="Kids",My Kidz (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="MyKidz.id" tvg-logo="https://www.lyngsat.com/logo/tv/mm/my-kidz-id.png" group-title="Kids",My Kidz (1080p) 
 http://210.210.155.37/uq2663/h/h191/index.m3u8
 #EXTINF:-1 tvg-id="NET.id" tvg-logo="https://i.imgur.com/RPT8O12.png" group-title="General",NET. (576p)
 https://bravo.kugo.id/nettv/udp.stream/chunklist.m3u8
@@ -67,7 +68,7 @@ https://alfa.kugo.id/playout/pop.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/RCTI_2015.svg/512px-RCTI_2015.svg.png" group-title="General",RCTI (720p)
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://d35d0ifx19oopq.cloudfront.net/RCTI_2021.m3u8
-#EXTINF:-1 tvg-id="RajawaliTV.id" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rajawali_tv_id.png" group-title="General",RTV (576p) [Geo-blocked]
+#EXTINF:-1 tvg-id="RajawaliTV.id" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rajawali_tv_id.png" group-title="General",RTV (576p) 
 http://210.210.155.37/dr9445/h/h10/index.m3u8
 #EXTINF:-1 tvg-id="SemarangTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/3c/Cakra-semarang-tv.png" group-title="General",Semarang TV (720p)
 http://116.254.112.74/hls/cakralive.m3u8
