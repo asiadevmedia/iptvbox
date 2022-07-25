@@ -360,7 +360,7 @@ https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 http://122.248.43.138:1935/ch25/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="SofyTV.ch" tvg-logo="https://i.imgur.com/Srxa6cR.png" group-title="Undefined",Sofy TV (720p)
 https://sofy-ger-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="SpacetoonIndonesia.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="Animation;Kids;Kids",Spacetoon Indonesia (576p)
+#EXTINF:-1 tvg-id="SpacetoonIndonesia.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="Kids",Spacetoon Indonesia (576p)
 https://bravo.kugo.id/spacetoon/udp.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="SunnahJalanPastiTV.id" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sunnah-jalan-pasti-tv-id.png" group-title="Undefined" user-agent="Mozilla/5.0 (X11; Linux x86_64)",Sunnah Jalan Pasti TV (360p) [Geo-blocked]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
